@@ -1,0 +1,42 @@
+basic requirements to run this application
+
+1-install java 17
+2-install eclipse
+https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2025-03/R/eclipse-jee-2025-03-R-win32-x86_64.zip&mirror_id=1287
+=========================================================================
+then how to import project in your eclipse IDE
+download project from GitHub:https://github.com/altapshaikh/Twitter/archive/refs/heads/master.zip
+
+launch eclipse---->file--->open from filesystem--->
+directory--->navigate to project---->finish
+
+
+====================================================================
+How to install MySQL
+https://dev.mysql.com/downloads/installer/
+keep username and password is: root
+once setup is done then create db in MySQL
+
+database name:twitter
+
+============================================================
+how to run application
+=========================================
+right click on your project then Run as spring boot app.
+open browser and add this url in tab:  http://localhost:5656/
+
+==========================================================
+how to support for hindi and marathi typing
+1-https://www.microsoft.com/en-us/download/details.aspx?id=6041 and install
+once above installation done the restart the computer/laptop
+2-then install this --->https://microsoft.com/cms/api/am/binary/RE56Fox
+
+then run your application
+and for hindi or marathi typing
+press  alt+shift
+
+
+
+
+
+
